@@ -10,6 +10,5 @@ public class Main {
 
         check("", "WWW7543_jhj", "WWW7543_jhj");
 
-
     }
 }
